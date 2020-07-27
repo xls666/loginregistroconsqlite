@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="simple_android_login_and_register_with_sqlite/app" />
+      <module fileurl="file://$PROJECT_DIR$/simple_android_login_and_register_with_sqlite.iml" filepath="$PROJECT_DIR$/simple_android_login_and_register_with_sqlite.iml" group="simple_android_login_and_register_with_sqlite" />
+    </modules>
+  </component>
+</project>
